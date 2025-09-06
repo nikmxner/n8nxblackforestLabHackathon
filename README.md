@@ -7,7 +7,7 @@
 
 The global manga industry is **MASSIVE** but severely constrained by translation bottlenecks:
 
-- **Global Market Size**: $15.6B (2024) â†’ $42.5B (2030)
+- **Global Market Size**: $15.6B (2024) $42.5B (2030)
 - **Translation Coverage**: Only **5-15%** of Japanese manga gets translated
 - **Untapped Opportunity**: **$12.4B** across international markets
 - **Annual Production**: Japan creates **3,000-5,000** new manga titles yearly
